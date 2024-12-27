@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/0b69a742-0adf-4af3-954e-6cad0307258e)
 This repository contains a CI/CD pipeline for building, analyzing, and pushing Docker images. 
 The pipeline is designed to automate the entire process from code compilation to Docker image deployment.
 
 
-![image](https://github.com/user-attachments/assets/0fde95eb-d7bd-44d5-ae79-903ec2f6e2eb)
+![Uploading image.png…]()
+
 
 ![image](https://github.com/user-attachments/assets/6ab8ce77-81ca-429a-a13d-586137a69e6f)
 
