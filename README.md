@@ -2,7 +2,8 @@ This repository contains a CI/CD pipeline for building, analyzing, and pushing D
 The pipeline is designed to automate the entire process from code compilation to Docker image deployment.
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/18525933-5ad7-4da0-9378-3262f3343773)
+
 
 
 ![image](https://github.com/user-attachments/assets/6ab8ce77-81ca-429a-a13d-586137a69e6f)
@@ -140,6 +141,6 @@ pipeline {
         }
 
     }
-}![image](https://github.com/user-attachments/assets/44e62460-5cc4-4149-ab92-05f53474d4ea)
+}
 
 
